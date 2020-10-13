@@ -1,0 +1,1 @@
+g++ tictactoe.cpp eks.cpp zero.cpp -lGL -lGLU -lglut -lm -o tictactoe
